@@ -1,0 +1,26 @@
+img {
+
+}
+/*class*/
+.familia_01 {
+    border: 1px ;
+    border-radius: 4px;
+    padding-bottom: 5px;
+    width: 150px;
+    border-radius: 30%;
+}
+
+.gregorio_escuela {
+    border: 1px ;
+    border-radius: 4px;
+    padding-bottom: 5px;
+    width: 150px;
+    border-radius: 50%;
+}
+.betty_gregorio {
+    border: 1px ;
+    border-radius: 3px;
+    padding-bottom: 3px;
+    width: 50px;
+    border-radius: 20%; 
+}
